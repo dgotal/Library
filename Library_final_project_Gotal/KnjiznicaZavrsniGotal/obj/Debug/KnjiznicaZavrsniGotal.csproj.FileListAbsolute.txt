@@ -1,0 +1,359 @@
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Form1.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Davor\source\repos\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+C:\Users\Franjo Josip\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.VracanjeKnjige.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\concrt140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\cvextern.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\msvcp140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\vcruntime140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\concrt140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\cvextern.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\msvcp140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\vcruntime140.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.xml
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.VracanjeKnjige.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\concrt140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\cvextern.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\msvcp140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x64\vcruntime140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\concrt140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\cvextern.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\msvcp140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\x86\vcruntime140.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.xml
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Valentina\Desktop\KnjiznicaZavrsniGotal\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\concrt140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\cvextern.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\msvcp140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\vcruntime140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\concrt140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\cvextern.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\msvcp140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\vcruntime140.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.xml
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\KOLIKO TOLIKO RADI\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\concrt140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\cvextern.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\msvcp140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\vcruntime140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\concrt140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\cvextern.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\msvcp140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\vcruntime140.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.xml
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csprojAssemblyReference.cache
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+C:\Users\Davor\Desktop\Nova mapa (2)\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\concrt140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\cvextern.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\msvcp140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\opencv_ffmpeg343_64.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x64\vcruntime140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\concrt140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\cvextern.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\msvcp140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\opencv_ffmpeg343.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\x86\vcruntime140.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe.config
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.exe
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\KnjiznicaZavrsniGotal.pdb
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.UI.xml
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\Emgu.CV.World.xml
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ZedGraph.xml
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.pdb
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.xml
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.pdb
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zxing.presentation.xml
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\de\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\es\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\fr\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\hu\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\it\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ja\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\pt\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\ru\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sk\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\sv\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\tr\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.AssemblyReference.cache
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.SuggestedBindingRedirects.cache
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjige.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Knjiznica.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PocetnaStranica.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.PosudbaKnjige.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.Posudba.PretrazivanjeKnjiga.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosAutora.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.UnosKnjige.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosKorisnika.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Knjižnica.UnosZanra.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.Properties.Resources.resources
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.GenerateResource.cache
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CoreCompileInputs.cache
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.csproj.CopyComplete
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.exe
+D:\Davor\Novo\ŠKOLA\Zavrsni\PosljednjaVerzijaGotal\KnjiznicaZavrsniGotala\KnjiznicaZavrsniGotal\obj\Debug\KnjiznicaZavrsniGotal.pdb
